@@ -1,0 +1,5 @@
+foo:
+  name: foo-service
+  data:
+    index: 2
+    flow: dev
